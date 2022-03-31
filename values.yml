@@ -1,4 +1,4 @@
 gitProvider: marcus_github
-artifactory: artifactory
+artifactory: ml_artifactory
 repoPath: ml-jfrog/jfrog-pipelines-maven-sample
 deployerRepo: mldemo-maven-dev-local
